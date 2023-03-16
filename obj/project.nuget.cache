@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yx9jzcQ/ZE+QAsZp/D3KanQP7BOkV7isVuFMQ62sRTQJ9/JY5P/C6jy1kOQDKRYEvsLxVhK/yvctXR0mxPxwBg==",
+  "dgSpecHash": "c/A6Fl50kjhoG488YkxrOwrK25EcTbw/Fq5dYvFxtoMQUZH2OMxkGnEh0TUcW7xgAJskeY6nMn838GCHCvWlGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vitor\\Desktop\\Threads\\Threads.csproj",
+  "projectFilePath": "C:\\Users\\vitor\\Desktop\\threads\\Threads.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor\\Desktop\\Threads\\Threads.csproj": {}
+    "C:\\Users\\vitor\\Desktop\\threads\\Threads.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor\\Desktop\\Threads\\Threads.csproj": {
+    "C:\\Users\\vitor\\Desktop\\threads\\Threads.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\Desktop\\Threads\\Threads.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\Desktop\\threads\\Threads.csproj",
         "projectName": "Threads",
-        "projectPath": "C:\\Users\\vitor\\Desktop\\Threads\\Threads.csproj",
+        "projectPath": "C:\\Users\\vitor\\Desktop\\threads\\Threads.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\Desktop\\Threads\\obj\\",
+        "outputPath": "C:\\Users\\vitor\\Desktop\\threads\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,10 @@
-﻿
+﻿//Análise e Desenvolvimento de Sistemas – Matutino
+// Aluno: Vitor inacio camargo dos Santos Ra: 1570482111029
+
 using System;
 using System.Threading;
 
-class Program
+class ExercicioThreads
 {
   static void Main()
   {
@@ -15,7 +17,7 @@ class Program
       Console.Write($"Insira o número para o cálculo desejado: {i + 1}: ");
       int num = int.Parse(Console.ReadLine());
 
-      threads[i] = new Thread(() => CalculoDoFatorial(num))
+      threads[i] = new Thread(() => CalcularFatorial(num))
       {
         Name = $"Thread-{i + 1}"
       };
@@ -28,7 +30,7 @@ class Program
     }
   }
 
-  static void CalculoDoFatorial(int num)
+  static void CalcularFatorial(int num)
   {
     int fatorial = 1;
     for (int i = 1; i <= num; i++)
