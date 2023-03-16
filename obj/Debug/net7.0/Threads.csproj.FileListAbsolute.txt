@@ -1,0 +1,15 @@
+C:\Users\vitor\Desktop\Threads\bin\Debug\net7.0\Threads.exe
+C:\Users\vitor\Desktop\Threads\bin\Debug\net7.0\Threads.deps.json
+C:\Users\vitor\Desktop\Threads\bin\Debug\net7.0\Threads.runtimeconfig.json
+C:\Users\vitor\Desktop\Threads\bin\Debug\net7.0\Threads.dll
+C:\Users\vitor\Desktop\Threads\bin\Debug\net7.0\Threads.pdb
+C:\Users\vitor\Desktop\Threads\obj\Debug\net7.0\Threads.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Threads\obj\Debug\net7.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\Threads\obj\Debug\net7.0\Threads.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\Threads\obj\Debug\net7.0\Threads.AssemblyInfo.cs
+C:\Users\vitor\Desktop\Threads\obj\Debug\net7.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Threads\obj\Debug\net7.0\Threads.dll
+C:\Users\vitor\Desktop\Threads\obj\Debug\net7.0\refint\Threads.dll
+C:\Users\vitor\Desktop\Threads\obj\Debug\net7.0\Threads.pdb
+C:\Users\vitor\Desktop\Threads\obj\Debug\net7.0\Threads.genruntimeconfig.cache
+C:\Users\vitor\Desktop\Threads\obj\Debug\net7.0\ref\Threads.dll
