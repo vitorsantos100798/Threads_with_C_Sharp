@@ -5,10 +5,10 @@ em paralelo usando threads. O número de cálculos e o número para o cálculo d
 solicitados ao usuário por meio de entrada de teclado.
 
 ## Como usar
-Execute o programa em um ambiente de desenvolvimento C#
-Insira o número de cálculos que deseja executar
-Insira o número para cada cálculo desejado
-Aguarde a execução de todas as threads
+* Execute o programa em um ambiente de desenvolvimento C#
+* Insira o número de cálculos que deseja executar
+* Insira o número para cada cálculo desejado
+* Aguarde a execução de todas as threads
 Os resultados serão exibidos no console.
 
 ## Funcionamento do algoritmo
