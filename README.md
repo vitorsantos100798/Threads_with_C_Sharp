@@ -9,7 +9,7 @@ solicitados ao usuário por meio de entrada de teclado.
 * Insira o número de cálculos que deseja executar
 * Insira o número para cada cálculo desejado
 * Aguarde a execução de todas as threads
-Os resultados serão exibidos no console.
+* Os resultados serão exibidos no console.
 
 ## Funcionamento do algoritmo
 O algoritmo cria um array de threads com base no número de cálculos que o usuário deseja executar.
