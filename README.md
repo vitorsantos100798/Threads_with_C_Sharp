@@ -5,11 +5,11 @@ em paralelo usando threads. O número de cálculos e o número para o cálculo d
 solicitados ao usuário por meio de entrada de teclado.
 
 ## Como usar
-11- Execute o programa em um ambiente de desenvolvimento C#
-2- Insira o número de cálculos que deseja executar
-3- Insira o número para cada cálculo desejado
-4- Aguarde a execução de todas as threads
-5- Os resultados serão exibidos no console.
+Execute o programa em um ambiente de desenvolvimento C#
+Insira o número de cálculos que deseja executar
+Insira o número para cada cálculo desejado
+Aguarde a execução de todas as threads
+Os resultados serão exibidos no console.
 
 ## Funcionamento do algoritmo
 O algoritmo cria um array de threads com base no número de cálculos que o usuário deseja executar.
@@ -21,4 +21,4 @@ de todas as threads usando o método Join(). A função CalcularFatorial() execu
 cálculo de fatorial e exibe os resultados de cada iteração e o resultado final para cada cálculo.
 
 ## Author
-Vitor Santos
+👨‍💻 Vitor Santos
